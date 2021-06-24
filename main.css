@@ -157,7 +157,9 @@ a:hover {
   margin-top: 1rem;
   text-align: center;
 }
-.program p {
+.quote {
+  text-align: center;
+  color: #9FC7D1;
   font-style: italic;
 }
 .program ul {
